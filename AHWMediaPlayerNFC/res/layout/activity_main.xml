@@ -1,0 +1,111 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/m1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Canto Alegretense"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hino Rio-Grandense"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Amigo"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cantiga de Rio e Remo"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Milonga Para as Missões"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meu Pago"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fandango da Fronteira"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Baile de Candeeiro"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Velhos Caminhos"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Regresso do Carreteiro"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Baile de Rancho"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bagual de Corredor"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Milonga de Fronteira"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/m14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Potro sem Dono"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
